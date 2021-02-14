@@ -26,4 +26,3 @@ I have mastered HTML, CSS, JavaScript. I have mastered the GIT version control s
 ```
 Level of knowledge of English (beginner - intermediate) 
 ```
-[https://prostoevgeniy5.github.io/rsschool-cv/cv](https://prostoevgeniy5.github.io/rsschool-cv/cv)
